@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
 echo "Hello from main branch"
-echo "Version from main"
-
+echo "Version from conflict"
